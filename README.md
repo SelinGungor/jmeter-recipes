@@ -1,4 +1,4 @@
 jmeter-recipes
 ==============
 
-This repository contains various self contains jmeter recipes.
+This repository contains various self contained jmeter recipes.
